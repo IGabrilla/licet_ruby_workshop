@@ -1,0 +1,5 @@
+["yuiuoioi","hjkjhhklhklklk","uiuiuiuiui"].each do |num|
+if (num.length==10)
+puts "#{num} is the name of length of 10" 
+end
+end
